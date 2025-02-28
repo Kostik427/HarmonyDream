@@ -1,0 +1,40 @@
+{
+    "name": "harmony-dream-theme",
+    "author": "gigorgu",
+    "displayName": "Harmony Dream",
+    "description": "A harmonious and eye-pleasing theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "gigorgu",
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Harmony Dream",
+                "uiTheme": "vs-dark",
+                "path": "./themes/color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gigorgu/harmony-dream-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "harmony",
+        "dream",
+        "color theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1E1E2E",
+        "theme": "dark"
+    },
+    "license": "MIT"
+} 
